@@ -1,0 +1,45 @@
+
+
+*{
+    margin:0;
+    padding:0;
+}
+
+
+
+
+
+
+body {
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+.cscard:hover{
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+    background: #d9d7d7;
+    box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+    border-radius: 8px;
+    
+   
+}
+.navbar-nav{
+    font-size:20px;
+    font-weight: 550;
+}
+.card-body h1{
+        font-size:3.8rem;
+}
+.btn{
+  border-radius:0.5em;
+  padding:0.6em 2.5rem;
+}
+.feautred-services{
+    margin-left: 10px;
+}
+.price{
+    padding-right: 6rem;
+    color:#FA804C;
+    font-size:2.3rem;
+}
